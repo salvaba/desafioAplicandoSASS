@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    background-color:beige;
+    min-height: 100px;
+}
+header{
+    font-size:x-large;
+    display: grid;
+    justify-content: center;
+    h1, h2{
+        color:darkgoldenrod;
+        }
+
+}
+h1,h2{
+    font-size: xx-large;
+}
+h4, h3{
+    font-size:larger;
+}
+h6{
+    font-size: small;
+}
+p{
+    color: white;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:300;
+    font-style: oblique;
+}
